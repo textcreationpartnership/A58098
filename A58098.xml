@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the battail and victory lately obtained near Lewentz against twenty five thousand Turks, Tartars, and Moldavians, by General Souches: as it was sent to His Imperial Majesty, dated July 20. 1664.</title>
+            <author>Souches, Ludwig Raduit de, 1608-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58098</idno>
+            <idno type="STC">Wing R309A</idno>
+            <idno type="STC">ESTC R217059</idno>
+            <idno type="EEBO-CITATION">99828760</idno>
+            <idno type="PROQUEST">99828760</idno>
+            <idno type="VID">33191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1958:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the battail and victory lately obtained near Lewentz against twenty five thousand Turks, Tartars, and Moldavians, by General Souches: as it was sent to His Imperial Majesty, dated July 20. 1664.</title>
+                  <author>Souches, Ludwig Raduit de, 1608-1683.</author>
+               </titleStmt>
+               <extent>[2], 11, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Mabb, living at St. Pauls Wharff,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A true and perfect relation of the battail and victory, lately obtained near Lewentz, as it was sent to His Imperial Majesty by General Souches.</note>
+                  <note>With a final imprimatur leaf, dated: August 6. 1664.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Souches, Ludwig Raduit de, 1608-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33191:1" rendition="simple:additions"/>
+            <p>A true and Perfect RELATION OF THE Battail and Victory lately Obtained NEAR LEWENTZ, Againſt Twenty five Thouſand <hi>TURKS, TARTARS,</hi> AND <hi>MOLDAVIANS,</hi> By General SOUCHES: As it was ſent to His Imperial MAJESTY, <hi>Dated</hi> July 20. 1664.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Mabb,</hi> living at St. <hi>Pauls</hi> Wharff, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33191:2"/>
+            <pb n="1" facs="tcp:33191:2"/>
+            <head>A True and Perfect Relation of the Battail and Victory, lately obtained near <hi>Lewentz,</hi> as it was ſent to His Imperial Majeſty by General <hi>Souches.</hi>
+            </head>
+            <opener>
+               <salute>Most Gracious Emperour, and Lord;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter that I had received your moſt gracious Com<g ref="char:EOLhyphen"/>mand of the 9<hi rend="sup">th</hi>. to watch my advantage upon the Enemy about <hi>Newhawſel,</hi> I roſe up from <hi>Tyrnaw,</hi> notwithſtanding my exceeding weakneſs of body, and gained ſo much ſtrength from the great zeal I had to encreaſe the al<g ref="char:EOLhyphen"/>ready
+<pb n="2" facs="tcp:33191:3"/>won reputation of theſe Armes your Imperial Majeſty hath been pleaſed to en<g ref="char:EOLhyphen"/>truſt me with; that I have been enabled to perform my Obedience to your Imperial Majeſties moſt Gracious will in the manner following:</p>
+            <p>I ſent the bearer hereof <hi>Adjutant-General Gregory</hi> of <hi>Kleindienſt</hi> to the Earl of <hi>Buch<g ref="char:EOLhyphen"/>heims</hi> at <hi>Comorra,</hi> to have his Advice in the propoſed Deſign, and to haſten withal the march of the <hi>Pergeniſh Huſſars,</hi> and ordered likewiſe <hi>Field-Marſhal Lieutenant Van Heu<g ref="char:EOLhyphen"/>ster</hi> (the Enemy being marched away to<g ref="char:EOLhyphen"/>ward <hi>Lewentz</hi>) to haſten to me day and night with his own Regiment, a Troop of his <hi>Electoral Highneſs Palatines</hi> Guards, and five Companies of the <hi>Montevertian</hi> Foot, for that I intended to relieve <hi>Lewentz.</hi> VVhereupon he came to the Leaguer at <hi>Freyſtattle</hi> on the fifteenth, and the next day with ſix dayes Proviſion we came to <hi>Neutra,</hi> where in five or ſix hours, our whole Army got over the River. The ſame day I marched within a mile of S. <hi>Benedict,</hi> and
+<pb n="3" facs="tcp:33191:3"/>at break of day ſet my men in Order, and advanced towards the ſaid place. In the mean time came news that a thouſand <hi>Tartars</hi> had paſſed the River <hi>Gran,</hi> and fal<g ref="char:EOLhyphen"/>len on a Party of three hundred <hi>Dutch</hi> and <hi>Hungarians,</hi> under Collonel <hi>Kohari;</hi> and the <hi>Brandenburgiſh Lieutenant-Collonel</hi> of Horſe, (Commanded the day before our diſ<g ref="char:EOLhyphen"/>camping out of <hi>Freyſtattle</hi>) and killed <hi>forty three,</hi> with the loſs of <hi>ſixty</hi> of their own. VVherefore I haſtned on with the Army, and ſate down at the foot of the Hill near <hi>St. Benedict.</hi> And leſt that the Enemy diſcovering us from the Hills ſhould again croſs the River, and wholly poſſeſs them<g ref="char:EOLhyphen"/>ſelves thereof, I commanded out <hi>Field Mar<g ref="char:EOLhyphen"/>ſhal Lieutenant Heuſter</hi> with the <hi>Brandenbur<g ref="char:EOLhyphen"/>giſh Dragoons,</hi> and ſix Troops of Horſe, following my ſelf with the whole Body to the ſaid River <hi>Gran,</hi> where ſome of ours in their paſſing, had little Skirmiſhes with the Enemy, who ſtill kept his Body upon the top of the hill. I flung up preſently four ſmall Redoubts to plant Cannon, and lay all night on the Banks,</p>
+            <pb n="4" facs="tcp:33191:4"/>
+            <p>An hour before day, roſe a Gentle wind driving the Clouds before it, and they mo<g ref="char:EOLhyphen"/>ving the Boughs and little trees in ſuch man<g ref="char:EOLhyphen"/>ner, that it ſeem'd as though the whole E<g ref="char:EOLhyphen"/>nemies Army were on their March toward the <hi>Bergſtadt.</hi> This gave an Alarum to the VVatch, the miſtake being ſo genuine, that I my ſelf believed it, and was a going to put my Men in Order to fore-ſtall their paſſage. Yet had we an advantage by the falſe Ala<g ref="char:EOLhyphen"/>rum, and got over the <hi>Gran</hi> in three ſeverall places, ſetting a Muſquetier behinde each Horſeman, ſo that within two hours ſpace, our Army ſtood in Battail-Array. Now to fulfill your Imperiall Majeſties moſt Graci<g ref="char:EOLhyphen"/>ous Command, I Ordered Colonel <hi>Kohari,</hi> (who fell in this Action very unſeaſonably for Us) Colonel <hi>Caprara,</hi> with a Lievete<g ref="char:EOLhyphen"/>nant Colonel, one <hi>Major,</hi> two <hi>Captains</hi> of Horſe, the <hi>Brandenburgiſh Major Marowits,</hi> with a hundred Dragoons (in all they made Eight hundred men) to fall upon the E<g ref="char:EOLhyphen"/>nemy, who ſtood in Battalia all along the top of the hill, which as ſoon as the Enemy perceived, and that our Army followed, he
+<pb n="5" facs="tcp:33191:4"/>purpoſed with a thouſand men to have ta<g ref="char:EOLhyphen"/>ken a paſſe at the Foot of the hill by a marſh, which in dry weather, is eaſie to go over, thinking to ſurround us there, ſince he was twice our Number. But it ſucceeded ill with him; For I plac't the <hi>Field-Martial-Lieutenant</hi> before the <hi>Right Wing,</hi> and ſhewed him where he might beſt withſtand the Enemy, who already had laid a great Ambuſh on another paſſe too on the Right ſide. Now as the Enemy thought to come on the Back or the Flanck of our Right VVing out of this Ambuſh, the <hi>Heuſteriſh</hi> Regiment and his <hi>Electoral Highneſs Pala<g ref="char:EOLhyphen"/>tines</hi> Company well received and repulſt him. In the like manner fell the beſt <hi>Jani<g ref="char:EOLhyphen"/>zaries</hi> and ſtouteſt <hi>Turkiſh</hi> Horſe, by the <hi>Caprariſh</hi> Squadrons, and ſeeing the greateſt danger to be in this place, I made up to it my ſelf, and waited the Enemy with all man<g ref="char:EOLhyphen"/>ly Reſolution. This Squadron beat off the firſt On-ſet with great Valour, but by reaſon the Enemy was more then four thouſand ſtrong, they were forced a little to retreat, to a litttle Ambuſcade, where the <hi>Brandenbur<g ref="char:EOLhyphen"/>giſh
+<pb n="6" facs="tcp:33191:5"/>Lieutenant Colonel</hi> lay with a hundred and fifty Dragoons, who gave the Enemy ſuch a <hi>Salvo,</hi> that he was forc't to ſcatter, whereby was given a little breathing room to the <hi>Caprariſh</hi> and other Officers Squadrons who began to Rally again: Of theſe were ſome (Perſons careleſſe of their honour) that came to the Baggage, and cryed out that the whole Army was Routed, and thereup<g ref="char:EOLhyphen"/>on were ſome of our VVaggons plundred by other Raſh Inconſiderable Fellows. So ſoon as the Troops were again together, and ſe<g ref="char:EOLhyphen"/>conded with three Squadrons of the left VVing, the Enemy likewiſe Recruited with freſh men, and ſeem'd reſolved to take a Re<g ref="char:EOLhyphen"/>venge; but I cauſed a Regiment of Infan<g ref="char:EOLhyphen"/>try to advance with four ſmall pieces, which received him ſo bravely, that he was con<g ref="char:EOLhyphen"/>ſtrained to draw back, leaving behind a great Number of wounded and dead bodies. Now as ſoon as the danger was over here, and I could the better confide in the two Squadrons of Foot, and the four pieces which were planted behind a great buſh on the Enemies VVing; I took from them the
+<pb n="7" facs="tcp:33191:5"/>
+               <hi>Caprariſh</hi> Regiment of Horſe, &amp; other Squa<g ref="char:EOLhyphen"/>drons; Whereupon Colonel Count <hi>Caprara</hi> plac't himſelf with other Officers before his Regiment, and with Major <hi>Marowits,</hi> and his three Companies of Dragoons fought with good Reſolution, and Renown'd Cou<g ref="char:EOLhyphen"/>rage againſt more then Eight Thouſand <hi>Tartars</hi> and <hi>Moldavians.</hi> Ours indeed of<g ref="char:EOLhyphen"/>ten did here Repulſe and were Repulſt; But I again upheld them with the <hi>Saxiſh,</hi> and <hi>Brandenburgiſh</hi> Infantry, and ſix ſmall Pieces, and cauſed the Enemy to give ground.</p>
+            <p>In the mean time, the <hi>Major General,</hi> Fought in the middle, where the Enemy Charged with great fury, but the <hi>Major Ge<g ref="char:EOLhyphen"/>neral</hi> Anſwered him ſtoutly, till we ſaw at length, that the <hi>Tartars,</hi> and <hi>Moldavians</hi> were totally Routed, and ſo we got the Vi<g ref="char:EOLhyphen"/>ctory on three ſides.</p>
+            <p>After this, we Marched on the High-way to <hi>Lewents,</hi> and it ſeem'd, as if the Enemy would again Recover the Hill; But in that they ſaw us make up anew our Squadrons, and the Duke of <hi>Holſtein</hi> march toward them with the whole <hi>Infantry,</hi> and <hi>Artillery,</hi>
+               <pb n="8" facs="tcp:33191:6"/>they began to fly. VVhereupon the Squa<g ref="char:EOLhyphen"/>drons of the Van, and the left VVing, and after the <hi>Heuſteriſh</hi> and <hi>Electoral Palatine</hi> Horſe haſtned up, and ſlew all that Reſiſted in the firſt Leaguer (for they had three Lea<g ref="char:EOLhyphen"/>guers) Plundred the Baggage, and purſued for two miles, and put all to the Sword, as I had Commanded. VVe took but three Priſoners alive, the Number of the dead is about <hi>Six Thouſand.</hi> And that the Infan<g ref="char:EOLhyphen"/>try might be fleſht with Killing I cauſed like<g ref="char:EOLhyphen"/>wiſe thoſe of my Old Leaguer to Advance. On the way, they met with five hundred <hi>Janizaries</hi> which were laid in Ambuſh by the <hi>Baſſa</hi> of <hi>Offen,</hi> and ſlew them all. The Booty ours have taken is very great. The few <hi>Hungarians</hi> which were with me, be<g ref="char:EOLhyphen"/>haved themſelves alſo well, and eſpecially Count <hi>Valentin Balaſſa</hi> Fought to a wonder. Colonel <hi>Leyſz,</hi> and the Earle of the Cham<g ref="char:EOLhyphen"/>ber-Baron <hi>Joanelli</hi> ſhewed likewiſe their Va<g ref="char:EOLhyphen"/>lour, and in one word, all other Officers and Souldiers did their Duty like Souldiers. No leſs, did the Electors of <hi>Sax</hi> and <hi>Branden<g ref="char:EOLhyphen"/>burgs</hi> Forces Fight with an Incredible Reſo<g ref="char:EOLhyphen"/>lution.
+<pb n="9" facs="tcp:33191:6"/>This great ſlaughter will doubtleſly force the <hi>Grand Viſier</hi> to divide his body, and ſend ſome great Force hither, and I am of moſt humble Opinion, (but preſcribing nothing) that it were neceſſary your Impe<g ref="char:EOLhyphen"/>riall <hi>Majeſty</hi> (as far as is poſſible) would ſend me more help to purſue this Victory. I ſhall if I can, break up to day, and do my beſt to carry off the Artillery, we have ta<g ref="char:EOLhyphen"/>ken, whereof were one whole Cannon, and in a wood not far off, two half Cannon, and two Quarter ones, with ſeveral Provi<g ref="char:EOLhyphen"/>ſion VVaggons. The Governour here, Captain <hi>Joachim Newmitſhaw</hi> of the <hi>Mer<g ref="char:EOLhyphen"/>ſiſh</hi> Regiment with the whole Garriſon de<g ref="char:EOLhyphen"/>fended themſelves Gallantly, ſhewed no fear, and would hear of no Treaty. The Enemy attempted to open the Breach which I for<g ref="char:EOLhyphen"/>merly made up, and ſtorm'd it Twice, but was breat off ſtill with great loſſe.</p>
+            <p>The Governour alſo fearing the Enemy might at length cut off their paſs from the City into the Caſtle, ſet on fire the <hi>Palanka</hi> which joyned the Town and Caſtle be<g ref="char:EOLhyphen"/>tween the Mariſh, ſo that it was left quite
+<pb n="10" facs="tcp:33191:7"/>open, which was very advantageous to the defence of the Caſtle, but no Cavalry could ſtand there.</p>
+            <p>The hurt done by ſhot to the Caſtle, is reparable with little coſt, and though the Enemy had ſtormed the Caſtle where the breach was, yet had he not got in, for the Governour was very provident and had made good Trenches.</p>
+            <p>The Enemies force is a great deal ſtronger then report hath gone hitherto, for no man that ever ſaw a Souldier in the Field, hath reckoned them leſs then <hi>Twenty five Thou<g ref="char:EOLhyphen"/>ſand;</hi> the Priſoners ſay, they are from <hi>Thirty</hi> to <hi>Forty Thouſand</hi> and upwards, which yet I believe not; but hold for certain, that they are <hi>Twenty five Thouſand</hi> ſtrong. The <hi>Baſſa's</hi> of <hi>Offen, Erla,</hi> and <hi>Newhauſel,</hi> were not preſent, but <hi>Aly Baſſa,</hi> who lay former<g ref="char:EOLhyphen"/>ly in <hi>Lewentz,</hi> and alſo another who Com<g ref="char:EOLhyphen"/>manded <hi>Four Thouſand Janizaries,</hi> both men of great Experience and Reſpect a<g ref="char:EOLhyphen"/>mong the <hi>Turks,</hi> are ſlain, with ſeveral o<g ref="char:EOLhyphen"/>ther Officers. The Loſs and Terrour of their ſide is ſo great, that the <hi>Grand Viſier</hi>
+               <pb n="11" facs="tcp:33191:7"/>will ſoon find it. Further my moſt Graci<g ref="char:EOLhyphen"/>ous Lord, I pray God from the bottom of my heart, that he would more and more bleſs your Imperial Majeſties Armies; what I can do further according to my poor ability, your Imperial Majeſty may moſt graciouſly aſſure your ſelf of; I recom<g ref="char:EOLhyphen"/>mend my ſelf withall to your conſtant Im<g ref="char:EOLhyphen"/>perial Grace and Favour, as.</p>
+            <closer>
+               <dateline>
+                  <hi>Lewentz,</hi> 
+                  <date>July 20. 1664.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Imperial Majeſties moſt Humble Faithful and Obedient Vaſſal</hi> de Souches.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:33191:8"/>
+            <head>Poſt-Script.</head>
+            <p>THis Relation was ſent by an Ex<g ref="char:EOLhyphen"/>preſs from the Emperour to his <hi>Electoral Highneſs Palatine,</hi> whereupon on the <hi>27</hi> of <hi>July</hi> all the Guns went of at <hi>Frankendale,</hi> whoſe Report was anſwered by thoſe at <hi>Manheim,</hi> and trebled by all the Cannon at <hi>Heidelburg,</hi> being thrice fired; and all the Windows and Towers were full of Artificial fires that night. Count <hi>Kon<g ref="char:EOLhyphen"/>ningsbeck</hi> was at the Table with his Electoral Highneſs, when this good News was brought, which was received with all expreſsions of joy imaginable.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:33191:8"/>
+            <p>Licenſed,</p>
+            <closer>
+               <signed>Roger L'Eſtrange.</signed>
+               <dateline>
+                  <date>Auguſt 6. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
